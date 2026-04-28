@@ -26,8 +26,8 @@
             <mxPoint x="530" y="275.28571428571445" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9czJY9FmuQi2PLiB6M9w-7" value="异常值检测与过滤" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="402" y="-10" width="92" height="84" as="geometry" />
+        <mxCell id="9czJY9FmuQi2PLiB6M9w-7" value="GridSearchCV 或 Bayesian" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="343" y="7" width="92" height="84" as="geometry" />
         </mxCell>
         <mxCell id="9czJY9FmuQi2PLiB6M9w-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9czJY9FmuQi2PLiB6M9w-30" target="9czJY9FmuQi2PLiB6M9w-31">
           <mxGeometry relative="1" as="geometry" />
