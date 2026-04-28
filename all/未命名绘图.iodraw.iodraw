@@ -22,22 +22,11 @@
         <mxCell id="9czJY9FmuQi2PLiB6M9w-5" value="特征工程与划分" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9czJY9FmuQi2PLiB6M9w-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.444;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="9czJY9FmuQi2PLiB6M9w-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="190" as="sourcePoint" />
-            <mxPoint x="110" y="330" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="530" y="240" />
-              <mxPoint x="110" y="240" />
-              <mxPoint x="110" y="368" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9czJY9FmuQi2PLiB6M9w-7" value="并行训练四种算法" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9czJY9FmuQi2PLiB6M9w-9" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
