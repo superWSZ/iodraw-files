@@ -44,6 +44,11 @@
             <mxPoint x="-3" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9czJY9FmuQi2PLiB6M9w-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9czJY9FmuQi2PLiB6M9w-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9czJY9FmuQi2PLiB6M9w-7" value="并行训练四种算法" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="160" width="120" height="60" as="geometry" />
         </mxCell>
