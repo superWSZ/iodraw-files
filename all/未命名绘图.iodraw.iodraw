@@ -22,7 +22,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9czJY9FmuQi2PLiB6M9w-7" value="GridSearchCV 或 Bayesian" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="343" y="7" width="92" height="84" as="geometry" />
+          <mxGeometry x="322" y="39" width="92" height="84" as="geometry" />
         </mxCell>
         <mxCell id="9czJY9FmuQi2PLiB6M9w-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9czJY9FmuQi2PLiB6M9w-30" target="9czJY9FmuQi2PLiB6M9w-31">
           <mxGeometry relative="1" as="geometry" />
@@ -48,8 +48,14 @@
         <mxCell id="9czJY9FmuQi2PLiB6M9w-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9czJY9FmuQi2PLiB6M9w-37" target="9czJY9FmuQi2PLiB6M9w-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9czJY9FmuQi2PLiB6M9w-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9czJY9FmuQi2PLiB6M9w-37" target="9czJY9FmuQi2PLiB6M9w-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9czJY9FmuQi2PLiB6M9w-37" value="是否进行超参数搜索" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="173" y="-93" width="119" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="9czJY9FmuQi2PLiB6M9w-42" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="172" y="59" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
