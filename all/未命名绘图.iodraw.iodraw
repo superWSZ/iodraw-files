@@ -54,6 +54,9 @@
         <mxCell id="9czJY9FmuQi2PLiB6M9w-35" value="输出训练集与测试集" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="247" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9czJY9FmuQi2PLiB6M9w-37" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="192" y="-93" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
