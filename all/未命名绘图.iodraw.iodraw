@@ -16,19 +16,9 @@
         <mxCell id="9czJY9FmuQi2PLiB6M9w-3" value="Pipeline: Imputer→Scaler→Model" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="135" y="-180" width="195" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9czJY9FmuQi2PLiB6M9w-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9czJY9FmuQi2PLiB6M9w-37" target="9czJY9FmuQi2PLiB6M9w-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="-16" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9czJY9FmuQi2PLiB6M9w-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9czJY9FmuQi2PLiB6M9w-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="275.28571428571445" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9czJY9FmuQi2PLiB6M9w-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9czJY9FmuQi2PLiB6M9w-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369.8571864536832" y="-40.28571428571422" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9czJY9FmuQi2PLiB6M9w-7" value="GridSearchCV 或 Bayesian" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -54,6 +44,9 @@
         </mxCell>
         <mxCell id="9czJY9FmuQi2PLiB6M9w-35" value="输出训练集与测试集" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="247" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9czJY9FmuQi2PLiB6M9w-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9czJY9FmuQi2PLiB6M9w-37" target="9czJY9FmuQi2PLiB6M9w-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9czJY9FmuQi2PLiB6M9w-37" value="是否进行超参数搜索" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="173" y="-93" width="119" height="124" as="geometry" />
