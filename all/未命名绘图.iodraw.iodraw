@@ -61,25 +61,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9czJY9FmuQi2PLiB6M9w-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9czJY9FmuQi2PLiB6M9w-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="530" y="260" />
-              <mxPoint x="601" y="260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9czJY9FmuQi2PLiB6M9w-7" value="并行训练四种算法" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9czJY9FmuQi2PLiB6M9w-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="9czJY9FmuQi2PLiB6M9w-27">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="340" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9czJY9FmuQi2PLiB6M9w-27" value="保存模型与汇总对比" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
