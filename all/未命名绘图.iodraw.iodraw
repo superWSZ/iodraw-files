@@ -43,8 +43,14 @@
         <mxCell id="9czJY9FmuQi2PLiB6M9w-42" value="跳过搜索直接训练" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="172" y="59" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9czJY9FmuQi2PLiB6M9w-46" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="172" y="314" width="120" height="60" as="geometry" />
+        <mxCell id="9czJY9FmuQi2PLiB6M9w-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9czJY9FmuQi2PLiB6M9w-46" target="9czJY9FmuQi2PLiB6M9w-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9czJY9FmuQi2PLiB6M9w-46" value="测试集上预测" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="173" y="263" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9czJY9FmuQi2PLiB6M9w-48" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="173" y="403" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
