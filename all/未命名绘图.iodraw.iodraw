@@ -26,6 +26,11 @@
             <mxPoint x="530" y="275.28571428571445" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9czJY9FmuQi2PLiB6M9w-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9czJY9FmuQi2PLiB6M9w-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369.8571864536832" y="-40.28571428571422" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9czJY9FmuQi2PLiB6M9w-7" value="GridSearchCV 或 Bayesian" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="343" y="7" width="92" height="84" as="geometry" />
         </mxCell>
