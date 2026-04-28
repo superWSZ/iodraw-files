@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="260" />
-              <mxPoint x="110" y="260" />
+              <mxPoint x="70" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -65,7 +65,7 @@
           <mxGeometry x="10" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9czJY9FmuQi2PLiB6M9w-14" value="梯度提升" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9czJY9FmuQi2PLiB6M9w-16" value="岭回归" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="280" width="120" height="60" as="geometry" />
