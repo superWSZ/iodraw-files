@@ -48,8 +48,14 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4PhYaA1qjF-jbH6PuOFF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4PhYaA1qjF-jbH6PuOFF-0" target="4PhYaA1qjF-jbH6PuOFF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4PhYaA1qjF-jbH6PuOFF-0" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Pipeline: Imputer→Scaler→Model&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="310" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4PhYaA1qjF-jbH6PuOFF-2" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="60" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
